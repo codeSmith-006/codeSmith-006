@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<a href="https://www.facebook.com/mirhussainmurtaza/">
+<a href="https://www.facebook.com/ryanrehan.facebook">
   <img src="linkedincover.png" alt="Banner Image" width="100%" />
 </a>
 
