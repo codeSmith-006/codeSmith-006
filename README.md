@@ -9,6 +9,17 @@
 
 ---
 
+
+## GitHub Stats
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=codesmith-006&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codesmith-006&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codesmith-006&" alt="GitHub Streak" /></p>
+
 ## About Me
 
 🌱 I’m a full stack MERN developer who loves building clean, scalable, and user-friendly web apps.  
@@ -90,12 +101,3 @@
 
 ---
 
-## GitHub Stats
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=codesmith-006&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codesmith-006&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codesmith-006&" alt="GitHub Streak" /></p>
