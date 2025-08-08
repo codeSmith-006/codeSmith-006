@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <a href="https://www.facebook.com/mirhussainmurtaza/">
-  <img src="github-header-banner.png" alt="Banner Image" width="100%" />
+  <img src="linkedincover.png" alt="Banner Image" width="100%" />
 </a>
 
 <!-- Name & Designation -->
